@@ -85,7 +85,7 @@ nav ul li{
 #masterPlay{
     cursor:pointer;
 }
-.songInfo{
+#songInfo{
     position: absolute;
     left:10vw;
 }
